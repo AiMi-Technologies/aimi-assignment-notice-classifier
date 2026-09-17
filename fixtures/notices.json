@@ -1,0 +1,22 @@
+[
+  { "id": "N-001", "text": "Fee schedule update effective Q3: transaction fees for equity products reduced by 2 basis points." },
+  { "id": "N-002", "text": "Symbol migration notice: legacy ticker ABCX will be retired and replaced by ABCX.N on the new venue segment." },
+  { "id": "N-003", "text": "Scheduled maintenance window this weekend, trading systems unavailable for four hours starting 02:00 UTC." },
+  { "id": "N-004", "text": "Protocol update: FIX gateway will require TLS 1.3 for all new sessions starting next month." },
+  { "id": "N-005", "text": "Member firm hotline update: support contact number for connectivity issues has changed." },
+  { "id": "N-006", "text": "New market data feed available covering after-hours trading activity for listed derivatives." },
+  { "id": "N-007", "text": "Clearing house circular: margin requirements for index futures will increase ahead of quarterly expiry." },
+  { "id": "N-008", "text": "Corporate action notice: upcoming stock split for a widely held index constituent." },
+  { "id": "N-009", "text": "Connectivity bulletin: cross-connect provider migrating to a new data center, expect brief interruption." },
+  { "id": "N-010", "text": "Regulatory filing deadline reminder for participants subject to transaction reporting obligations." },
+  { "id": "N-011", "text": "Notice withdrawn and superseded by a later circular, this document should not be actioned." },
+  { "id": "N-012", "text": "New order type introduced for the continuous trading session, available from next trading day." },
+  { "id": "N-013", "text": "Holiday trading calendar update for the upcoming public holiday in the venue's home jurisdiction." },
+  { "id": "N-014", "text": "API versioning notice: the current REST API version will be deprecated in six months." },
+  { "id": "N-015", "text": "Risk control update: new price collar thresholds for volatile trading sessions." },
+  { "id": "N-016", "text": "Settlement cycle change: move from T+2 to T+1 for eligible securities, effective next quarter." },
+  { "id": "N-017", "text": "Document corrupted in transit, original circular could not be recovered from the source system." },
+  { "id": "N-018", "text": "New reference data field added to the instrument reference file for options contracts." },
+  { "id": "N-019", "text": "Vendor advisory: third-party market data terminal will undergo a scheduled software upgrade." },
+  { "id": "N-020", "text": "Exchange group announcement: consolidation of two trading segments into a single order book." }
+]
